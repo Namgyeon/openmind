@@ -17,49 +17,6 @@
 
 ---
 
-## 👥 팀원 소개
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/cksrlcks">
-        <img src="https://avatars.githubusercontent.com/cksrlcks" width="100" height="100" alt="김찬기"/>
-      </a>
-      <br />
-      <a href="https://github.com/cksrlcks"><b>김찬기</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/sol322">
-        <img src="https://avatars.githubusercontent.com/sol322" width="100" height="100" alt="최한솔"/>
-      </a>
-      <br />
-      <a href="https://github.com/sol322"><b>최한솔</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/charie95">
-        <img src="https://avatars.githubusercontent.com/charie95" width="100" height="100" alt="이유섭"/>
-      </a>
-      <br />
-      <a href="https://github.com/charie95"><b>이유섭</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Namgyeon">
-        <img src="https://avatars.githubusercontent.com/Namgyeon" width="100" height="100" alt="남기연"/>
-      </a>
-      <br />
-      <a href="https://github.com/Namgyeon"><b>남기연</b></a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/RINAHEO">
-        <img src="https://avatars.githubusercontent.com/RINAHEO" width="100" height="100" alt="허리나"/>
-      </a>
-      <br />
-      <a href="https://github.com/RINAHEO"><b>허리나</b></a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 🔧 프로젝트 소개
 
@@ -74,6 +31,30 @@
 - 타 플랫폼과 연동된 링크 공유 기능
 
 ---
+
+## 내가 개발한 기능
+
+### 메인페이지
+ - 대화방 생성
+
+   
+   ![2025-04-208 47 37-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/02cffaca-f38c-4e8d-b451-587291ed0196)
+
+   
+ - 내가 생성한 대화방 리스트 출력
+
+   
+   ![2025-04-208 49 45-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/775e604b-4ed9-4c2e-9bdf-d9f36ae75ed5)
+
+
+## USERFLOW 개션사항
+ - 기존의 설계에서 개선시킴
+   
+<img width="1420" alt="스크린샷 2025-04-20 오후 8 52 42" src="https://github.com/user-attachments/assets/2a02c7c1-0932-4efe-b1e8-1b6988faf0d8" />
+
+
+<img width="1420" alt="스크린샷 2025-04-20 오후 8 53 28" src="https://github.com/user-attachments/assets/57292110-c27a-42af-a64e-2ea86899aab9" />
+
 
 # 🖥️ 개발 스택
 
@@ -126,49 +107,5 @@
 
 ---
 
-## 📁 폴더 구조
-```
-📦src
-┣ 📂assets
-┃ ┣ 📂css
-┃ ┗ 📂img
-┣ 📂components
-┃ ┣ 📂Avatar
-┃ ┣ 📂Badge
-┃ ┣ 📂Button
-┃ ┣ 📂Dropdown
-┃ ┣ 📂Error
-┃ ┣ 📂FeedCard
-┃ ┣ 📂Icon
-┃ ┣ 📂Input
-┃ ┣ 📂Layout
-┃ ┣ 📂Modal
-┃ ┣ 📂MyFeeds
-┃ ┣ 📂Pagination
-┃ ┣ 📂Reaction
-┃ ┣ 📂Toast
-┃ ┣ 📂UserCard
-┃ ┗ 📜ui.js
-┣ 📂constants
-┣ 📂context
-┣ 📂pages
-┃ ┣ 📂main
-┃ ┃ ┣ 📂components
-┃ ┣ 📂post
-┃ ┃ ┣ 📂components
-┃ ┃ ┣ 📂loader
-┃ ┣ 📂sample
-┃ ┃ ┣ 📂components
-┃ ┗ 📜ErrorPage.jsx
-┣ 📂service
-┃ ┣ 📜Axios.js
-┣ 📂util
-┣ 📜App.jsx
-┣ 📜main.jsx
-┗ 📜router.jsx
-```
----
 
-## 📓 팀 노션
 
-<a href="https://buly.kr/FWS5ApJ" target="_blank">🔗 팀 노션 바로가기</a>
